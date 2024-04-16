@@ -4,7 +4,7 @@ Esse repositório tem como objetivo demonstrar  a evolução do projeto de criar
 
 ## Autores
 
-- [@arturfurtado](https://github.com/arturfurtado)
-- [Arthur Mello]
-- [Gabriel]
+- [Artur Furtado](https://github.com/arturfurtado)
+- [Arthur Mello](https://github.com/tucotacoss)
+- [Gabriel Carneiro](https://github.com/carneirogabriel)
 
